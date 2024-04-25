@@ -2,7 +2,7 @@
 #networkFileRW.py
 #Pamela Brauda
 #Thursday, March 3, 2022
-#Update routers and switches;
+#Update routers and switches
 #read equipment from a file, write updates & errors to file
 
 ##---->>>> Use a try/except clause to import the JSON module
