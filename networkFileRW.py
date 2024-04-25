@@ -86,7 +86,7 @@ def main():
                 with open(EQUIP_S_FILE, 'r') as file:
                     switches = json.load(file)
         except FileNotFoundError:
-print("One or both of the equipment files not found.")
+            print("One or both of the equipment files not found.")
 
     #dictionaries
     ##---->>>> read the routers and addresses into the router dictionary
